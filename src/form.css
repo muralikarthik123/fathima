@@ -1,0 +1,787 @@
+@media (max-width: 576px) {
+.mainf{
+    height:auto;
+    align-items: center;
+    padding:3%;
+    h4{
+        text-align: center;
+    }
+   
+
+    #textbox{
+        height:30px;
+        width: 90%;
+        
+
+    }
+    #textbox1{
+        height:30px;
+        width: 90%;
+        
+
+    }
+    #pan{
+        height:30px;
+        width:90%;
+        
+    }
+    #aadhaar{
+        height:30px;
+        width:90%;
+        
+
+    }
+    #dob{
+        height:30px;
+        width:90%;
+        
+    }
+    #age{
+        height:30px;
+        width:90%;
+        
+
+    }
+    #male{
+        margin-left:9%;
+    }
+    #nationality{
+        height:38px;
+        width:90%;
+        
+
+    }
+    #marital-status{
+        height:38px;
+        width:90%;
+        
+
+    }
+    #state1{
+        height:38px;
+        width:90%;
+        
+    }
+    #pwd{
+        height:38px;
+        width:90%;
+        
+    }
+    #Ex{
+        height:38px;
+        width:90%;
+        
+    }
+    #textbox2{
+        height:30px;
+        width:90%;
+        
+    }
+    #percentage{
+        height:30px;
+        width:90%;
+        
+    }
+    #cgpa{
+        height:30px;
+        width:90%;
+        
+    }
+    #date-of-passing{
+        height:30px;
+        width:90%;
+        
+        
+    }
+    #university{
+        height:30px;
+        width:90%;
+        
+    }
+    #address{
+        height:30px;
+        width:90%;
+        
+    }
+    #city{
+        height:30px;
+        width:90%;
+        
+        
+    }
+    #district{
+        height:30px;
+        width:90%;
+        
+    }
+    #pincode{
+        height:30px;
+        width:90%;
+        
+    }
+    #state{
+        height:38px;
+        width:90%;
+    }
+    h5{
+        text-align: center;
+    }
+
+}
+}
+
+@media (min-width: 577px) and (max-width:767px) {
+    .mainf{
+        height:auto;
+        text-align: center;
+        border:1px solid black;
+        width:70%;
+        align-items: center;
+        margin-left:20%;
+        padding:1%;
+        background-color: antiquewhite;
+        border-radius: 20px;
+    
+        #textbox{
+            height:30px;
+            width: 30%;
+            margin-left:1%;
+    
+        }
+        #textbox1{
+            height:30px;
+            width: 30%;
+            margin-left:6%;
+    
+        }
+        #pan{
+            height:30px;
+            width:30%;
+            margin-left:7%;
+        }
+        #aadhaar{
+            height:30px;
+            width:30%;
+            margin-left:5%;
+    
+        }
+        #dob{
+            height:30px;
+            width:30%;
+            margin-left:7%;
+        }
+        #age{
+            height:30px;
+            width:30%;
+            margin-left:13%;
+    
+        }
+        #male{
+            margin-left:9%;
+        }
+        #nationality{
+            height:38px;
+            width:31%;
+            margin-left:8%;
+    
+        }
+        #marital-status{
+            height:38px;
+            width:31%;
+            margin-left:6.5%;
+    
+        }
+        #state{
+            height:38px;
+            width:31%;
+            margin-left:11%;
+        }
+        #pwd{
+            height:38px;
+            width:30%;
+            margin-left:7%; 
+        }
+        #Ex{
+            height:38px;
+            width:30%;
+            margin-left:1%;
+        }
+        #textbox2{
+            height:30px;
+            width:30%;
+            margin-left:8%;
+        }
+        #percentage{
+            height:30px;
+            width:30%;
+            margin-left:1%;
+        }
+        #cgpa{
+            height:30px;
+            width:30%;
+            margin-left:11%;
+        }
+        #date-of-passing{
+            height:30px;
+            width:30%;
+            margin-left:6%;
+            
+        }
+        #university{
+            height:30px;
+            width:30%;
+            margin-left:9%;
+        }
+        #address{
+            height:30px;
+            width:30%;
+            margin-left:11%;
+        }
+        #city{
+            height:30px;
+            width:30%;
+            margin-left:13%;
+            
+        }
+        #district{
+            height:30px;
+            width:30%;
+            margin-left:11%;
+        }
+        #pincode{
+            height:30px;
+            width:30%;
+            margin-left:9%;
+        }
+    
+    }
+    }
+
+    @media (min-width: 768px) and (max-width: 991.98px) {
+        .mainf{
+            height:auto;
+            align-items: center;
+            font-size: 25px;
+            padding:2%;
+            h4{
+                text-align: center;
+            }
+            
+        
+            #textbox{
+                height:30px;
+                width: 60%;
+                margin-left:3%;
+            
+        
+            }
+            #textbox1{
+                height:30px;
+                width: 60%;
+                margin-left:12%;
+        
+            }
+            #pan{
+                height:30px;
+                width:60%;
+                margin-left:15%;
+            }
+            #aadhaar{
+                height:30px;
+                width:60%;
+                margin-left:10%;
+        
+            }
+            #dob{
+                height:38px;
+                width:60%;
+                margin-left:16%;
+            }
+            #age{
+                height:30px;
+                width:60%;
+                margin-left:27%;
+        
+            }
+            #male{
+                
+                margin-left:18%;
+            }
+            #nationality{
+                height:38px;
+                width:60%;
+                margin-left:18%;
+                font-size: 18px;
+        
+            }
+            #marital-status{
+                height:38px;
+                width:60%;
+                margin-left:14%;
+                font-size: 16px;
+        
+            }
+            #state1{
+                height:38px;
+                width:60%;
+                margin-left:25%;
+                font-size: 18px;
+            }
+            #pwd{
+                height:38px;
+                width:60%;
+                margin-left:16%; 
+                font-size: 18px;
+            }
+            #Ex{
+                height:38px;
+                width:60%;
+                margin-left:3%;
+                font-size: 18px;
+            }
+            #textbox2{
+                height:30px;
+                width:60%;
+                margin-left:16%;
+            }
+            #percentage{
+                height:30px;
+                width:60%;
+                margin-left:5%;
+            }
+            #cgpa{
+                height:30px;
+                width:60%;
+                margin-left:23%;
+            }
+            #date-of-passing{
+                height:38px;
+                width:60%;
+                margin-left:11%;
+                
+            }
+            #university{
+                height:30px;
+                width:60%;
+                margin-left:19%;
+            }
+            #address{
+                height:30px;
+                width:70%;
+                margin-left:11%;
+            }
+            #city{
+                height:30px;
+                width:70%;
+                margin-left:17%;
+                
+            }
+            #district{
+                height:30px;
+                width:70%;
+                margin-left:13%;
+            }
+            #pincode{
+                height:30px;
+                width:70%;
+                margin-left:11%;
+            }
+            #state{
+                height:38px;
+                width:71%;
+                margin-left:15%;
+                font-size: 18px;
+            }
+           
+        }
+        }
+
+        @media (min-width: 992px) and (max-width: 1199.98px) {
+            .mainf{
+                height:auto;
+                text-align: center;
+                border:1px solid black;
+                width:70%;
+                align-items: center;
+                margin-left:20%;
+                padding:1%;
+                background-color: antiquewhite;
+                border-radius: 20px;
+            
+                #textbox{
+                    height:30px;
+                    width: 30%;
+                    margin-left:1%;
+            
+                }
+                #textbox1{
+                    height:30px;
+                    width: 30%;
+                    margin-left:6%;
+            
+                }
+                #pan{
+                    height:30px;
+                    width:30%;
+                    margin-left:7%;
+                }
+                #aadhaar{
+                    height:30px;
+                    width:30%;
+                    margin-left:5%;
+            
+                }
+                #dob{
+                    height:30px;
+                    width:30%;
+                    margin-left:7%;
+                }
+                #age{
+                    height:30px;
+                    width:30%;
+                    margin-left:13%;
+            
+                }
+                #male{
+                    margin-left:9%;
+                }
+                #nationality{
+                    height:38px;
+                    width:31%;
+                    margin-left:8%;
+            
+                }
+                #marital-status{
+                    height:38px;
+                    width:31%;
+                    margin-left:6.5%;
+            
+                }
+                #state{
+                    height:38px;
+                    width:31%;
+                    margin-left:11%;
+                }
+                #pwd{
+                    height:38px;
+                    width:30%;
+                    margin-left:7%; 
+                }
+                #Ex{
+                    height:38px;
+                    width:30%;
+                    margin-left:1%;
+                }
+                #textbox2{
+                    height:30px;
+                    width:30%;
+                    margin-left:8%;
+                }
+                #percentage{
+                    height:30px;
+                    width:30%;
+                    margin-left:1%;
+                }
+                #cgpa{
+                    height:30px;
+                    width:30%;
+                    margin-left:11%;
+                }
+                #date-of-passing{
+                    height:30px;
+                    width:30%;
+                    margin-left:6%;
+                    
+                }
+                #university{
+                    height:30px;
+                    width:30%;
+                    margin-left:9%;
+                }
+                #address{
+                    height:30px;
+                    width:30%;
+                    margin-left:11%;
+                }
+                #city{
+                    height:30px;
+                    width:30%;
+                    margin-left:13%;
+                    
+                }
+                #district{
+                    height:30px;
+                    width:30%;
+                    margin-left:11%;
+                }
+                #pincode{
+                    height:30px;
+                    width:30%;
+                    margin-left:9%;
+                }
+            
+            }
+            }
+
+            @media (min-width: 1200px) {
+                .mainf{
+                    height:auto;
+                    text-align: center;
+                    border:1px solid black;
+                    width:70%;
+                    align-items: center;
+                    margin-left:15%;
+                    padding:2%;
+                    background-color: rgb(244, 241, 239);
+                    border-radius:30px;
+                    
+                
+                    #textbox{
+                        height:30px;
+                        width: 70%;
+                        margin-left:1%;
+                
+                    }
+                    #textbox1{
+                        height:30px;
+                        width: 70%;
+                        margin-left:7%;
+                
+                    }
+                    #pan{
+                        height:30px;
+                        width:70%;
+                        margin-left:9%;
+                    }
+                    #aadhaar{
+                        height:30px;
+                        width:70%;
+                        margin-left:6%;
+                
+                    }
+                    #dob{
+                        height:30px;
+                        width:70%;
+                        margin-left:9%;
+                    }
+                    #age{
+                        height:30px;
+                        width:70%;
+                        margin-left:16%;
+                
+                    }
+                    #male{
+                        margin-left:20%;
+                    }
+                    #nationality{
+                        height:38px;
+                        width:70%;
+                        margin-left:10%;
+                
+                    }
+                    #marital-status{
+                        height:38px;
+                        width:70%;
+                        margin-left:8%;
+                
+                    }
+
+                    #state1{
+                        height:38px;
+                        width:70%;
+                        margin-left:15%;
+                    }
+                    #pwd{
+                        height:38px;
+                        width:70%;
+                        margin-left:9%; 
+                    }
+                    #Ex{
+                        height:38px;
+                        width:70%;
+                        margin-left:1%;
+                    }
+                    #textbox2{
+                        height:30px;
+                        width:70%;
+                        margin-left:10%;
+                    }
+                    #percentage{
+                        height:30px;
+                        width:70%;
+                        margin-left:3%;
+                    }
+                    #cgpa{
+                        height:30px;
+                        width:70%;
+                        margin-left:14%;
+                    }
+                    #date-of-passing{
+                        height:30px;
+                        width:70%;
+                        margin-left:6%;
+                        
+                    }
+                    #university{
+                        height:30px;
+                        width:70%;
+                        margin-left:11%;
+                    }
+                    #address{
+                        height:30px;
+                        width:70%;
+                        margin-left:11%;
+                    }
+                    #city{
+                        height:30px;
+                        width:70%;
+                        margin-left:14%;
+                        
+                    }
+                    #district{
+                        height:30px;
+                        width:70%;
+                        margin-left:11%;
+                    }
+                    #pincode{
+                        height:30px;
+                        width:70%;
+                        margin-left:10%;
+                    }
+                    #state{
+                        height:38px;
+                        width:70%;
+                        margin-left:12%;
+                    }
+                    #check{
+                        font-size: 25px;
+                    }
+                
+                }
+                }
+                @media (min-width: 1400px) { 
+                    .mainf{
+                        height:auto;
+                        text-align: center;
+                        border:1px solid black;
+                        width:70%;
+                        align-items: center;
+                        margin-left:20%;
+                        padding:1%;
+                        background-color: antiquewhite;
+                        border-radius: 20px;
+                    
+                        #textbox{
+                            height:30px;
+                            width: 30%;
+                            margin-left:1%;
+                    
+                        }
+                        #textbox1{
+                            height:30px;
+                            width: 30%;
+                            margin-left:6%;
+                    
+                        }
+                        #pan{
+                            height:30px;
+                            width:30%;
+                            margin-left:7%;
+                        }
+                        #aadhaar{
+                            height:30px;
+                            width:30%;
+                            margin-left:5%;
+                    
+                        }
+                        #dob{
+                            height:30px;
+                            width:30%;
+                            margin-left:7%;
+                        }
+                        #age{
+                            height:30px;
+                            width:30%;
+                            margin-left:13%;
+                    
+                        }
+                        #male{
+                            margin-left:9%;
+                        }
+                        #nationality{
+                            height:38px;
+                            width:31%;
+                            margin-left:8%;
+                    
+                        }
+                        #marital-status{
+                            height:38px;
+                            width:31%;
+                            margin-left:6.5%;
+                    
+                        }
+                        #state{
+                            height:38px;
+                            width:31%;
+                            margin-left:11%;
+                        }
+                        #pwd{
+                            height:38px;
+                            width:30%;
+                            margin-left:7%; 
+                        }
+                        #Ex{
+                            height:38px;
+                            width:30%;
+                            margin-left:1%;
+                        }
+                        #textbox2{
+                            height:30px;
+                            width:30%;
+                            margin-left:8%;
+                        }
+                        #percentage{
+                            height:30px;
+                            width:30%;
+                            margin-left:1%;
+                        }
+                        #cgpa{
+                            height:30px;
+                            width:30%;
+                            margin-left:11%;
+                        }
+                        #date-of-passing{
+                            height:30px;
+                            width:30%;
+                            margin-left:6%;
+                            
+                        }
+                        #university{
+                            height:30px;
+                            width:30%;
+                            margin-left:9%;
+                        }
+                        #address{
+                            height:30px;
+                            width:30%;
+                            margin-left:11%;
+                        }
+                        #city{
+                            height:30px;
+                            width:30%;
+                            margin-left:13%;
+                            
+                        }
+                        #district{
+                            height:30px;
+                            width:30%;
+                            margin-left:11%;
+                        }
+                        #pincode{
+                            height:30px;
+                            width:30%;
+                            margin-left:9%;
+                        }
+                    
+                    }
+                    }   

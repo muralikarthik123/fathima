@@ -1,0 +1,159 @@
+@media (max-width: 576px) {
+    .main .h1-C {
+        text-align: center;
+    }
+
+    .main .form {
+        margin-left:10%;
+    }
+
+    .main .form .text {
+        height: 50px;
+        width: 90%;
+        font-size: 15px;
+    }
+
+    .main .form .btn-s {
+        height: 50px;
+        width: 100px;
+        font-size: 18px;
+        background-color: rgb(3, 121, 240);
+        border: none;
+        border-radius: 5px;
+        color: white;
+    }
+}
+
+@media (min-width: 577px) and (max-width:767px){
+    .main .h1-C {
+        text-align: center;
+    }
+
+    .main .form {
+        margin-left: 30%;
+    }
+
+    .main .form .text {
+        height: 50px;
+        width: 60%;
+        font-size: 15px;
+    }
+
+    .main .form .btn-s {
+        height: 50px;
+        width: 100px;
+        font-size: 18px;
+        background-color: rgb(3, 121, 240);
+        border: none;
+        border-radius: 5px;
+        color: white;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+    .main .h1-C {
+        text-align: center;
+    }
+
+    .main .form {
+       margin-left:10%; 
+    }
+    .main .form .full{
+        font-size:27px;
+    }
+
+    .main .form .text {
+        height: 80px;
+        width: 90%;
+        font-size: 22px;
+    }
+
+    .main .form .btn-s {
+        height: 50px;
+        width: 150px;
+        font-size: 18px;
+        background-color: rgb(3, 121, 240);
+        border: none;
+        border-radius: 5px;
+        color: white;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    .main .h1-C {
+        text-align: center;
+    }
+
+    .main .form {
+        margin-left: 30%;
+    }
+
+    .main .form .text {
+        height: 50px;
+        width: 60%;
+        font-size: 15px;
+    }
+
+    .main .form .btn-s {
+        height: 50px;
+        width: 100px;
+        font-size: 18px;
+        background-color: rgb(3, 121, 240);
+        border: none;
+        border-radius: 5px;
+        color: white;
+    }
+}
+
+@media (min-width: 1200px) {
+    .main .h1-C {
+        text-align: center;
+    }
+
+    .main .form {
+        margin-left: 30%;
+    }
+
+    .main .form .text {
+        height: 70px;
+        width: 60%;
+        font-size: 15px;
+    }
+
+    .main .form .btn-s {
+        height: 50px;
+        width: 100px;
+        font-size: 18px;
+        background-color: rgb(3, 121, 240);
+        border: none;
+        border-radius: 5px;
+        color: white;
+    }
+}
+
+@media (min-width: 1400px) {
+    .main .h1-C {
+        text-align: center;
+    }
+
+    .main .form {
+        margin-left: 30%;
+    }
+
+    .main .form .text {
+        height: 70px;
+        width: 60%;
+        font-size: 15px;
+    }
+
+    .main .form .btn-s {
+        height: 50px;
+        width: 100px;
+        font-size: 18px;
+        background-color: rgb(3, 121, 240);
+        border: none;
+        border-radius: 5px;
+        color: white;
+    }
+}
+

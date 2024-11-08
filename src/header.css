@@ -1,0 +1,17 @@
+.header{
+    
+
+    .li{
+    background-color:rgb(219, 224, 207);
+    list-style-type: none;
+    height:80px;
+    display:flex;
+    gap:30px;
+    padding-top:30px;
+    font-size: 30px;
+    font-weight: 500;
+    justify-content: center;
+    cursor: pointer;
+    
+}
+}
